@@ -7,7 +7,7 @@
           dense
           round
           icon="menu"
-          aria-label="Menu"
+          aria-label="MeNu"
           @click="toggleLeftDrawer"
         />
 
